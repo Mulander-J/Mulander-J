@@ -33,6 +33,8 @@
 
 <!-- <p><a href="https://www.buymeacoffee.com/Mulander-J"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mulander-J" /></a></p><br><br> -->
 
+<h3 align="left">Stats:</h3> 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mulander-j" alt="mulander-j" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mulander-j&show_icons=true&locale=en" alt="mulander-j" /></p>
