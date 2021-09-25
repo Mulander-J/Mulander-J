@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **WebGPU, React, Motoko**
+- 🌱 I’m currently learning **React, Nestjs, Graphql, Motoko**
 
 - 👯 I’m looking to collaborate on ...
 
