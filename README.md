@@ -7,7 +7,7 @@ My Personal [Link](https://mulander-j.github.io/fillory/Wiki1001/)
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **React, Nestjs, Graphql, Motoko**
+- 🌱 I’m currently learning **React, Solidity**
 
 - 👯 I’m looking to collaborate on ...
 
