@@ -9,7 +9,7 @@ My Personal [Link](https://mulander-j.github.io/fillory/Wiki1001/)
 
 - 🌱 I’m currently learning **React, Solidity**
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Web3...
 
 - 🤝 I’m looking for help with ...
 
@@ -17,7 +17,7 @@ My Personal [Link](https://mulander-j.github.io/fillory/Wiki1001/)
 
 - 📝 I regularly write articles on ...
 
-- 💬 Ask me about **vue,echarts**
+- 💬 Ask me about **vue,echarts,Web3**
 
 - 📫 How to reach me **mulander_j@outlook.com**
 
