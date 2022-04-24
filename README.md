@@ -5,9 +5,9 @@
 
 My Personal [Link](https://mulander-j.github.io/fillory/Wiki1001/)
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on WanXiang.
 
-- 🌱 I’m currently learning **React, Solidity**
+- 🌱 I’m currently learning **React, Solidity, Motoko**
 
 - 👯 I’m looking to collaborate on Web3...
 
