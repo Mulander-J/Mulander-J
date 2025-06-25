@@ -20,7 +20,7 @@ My Personal [Blog(archive)](https://mulander-j.github.io/fillory/Wiki1001/)
 | **Lang**                       | [Solidity](https://soliditylang.org/), [Motoko](https://github.com/dfinity/motoko)                                                                          |        |
 | **UseWeb3**                    | [Web3.js](https://github.com/web3/web3.js), [Ethers.js](https://github.com/ethers-io/ethers.js/), [Wagmi.sh](https://wagmi.sh) + [Viem.sh](https://viem.sh) |        |
 | **Web Framework**              | [Vue](https://vuejs.org/), [React](https://react.com), [Svelte](https://svelte.dev/)                                                                        |        |
-| **UI Framework**               | [Quasar](https://quasar.dev/), [Iview](https://www.iviewui.com/), [Element](https://element-plus.org/), [Arco](https://arco.design/)                        |        |
+| **UI Framework**               | [Shadcn](https://ui.shadcn.com/), [Quasar](https://quasar.dev/), [Iview](https://www.iviewui.com/), [Element](https://element-plus.org/), [Arco](https://arco.design/)                        |        |
 | **CSS Framework**              | [Tailwindcss](https://tailwindcss.com), [Unocss](https://unocss.dev/)                                                                                       |        |
 | **Frontend Tooling**           | [Vite](https://vitejs.dev/)                                                                                                                                 |        |
 | **Data Visualization**         | [Echarts](https://echarts.apache.org/)                                                                                                                      |        |
