@@ -11,10 +11,6 @@ My Personal [Blog(archive)](https://mulander-j.github.io/fillory/Wiki1001/)
 
 - 📫 How to reach me <mulander_j@outlook.com>
 
-[![Mulander's Stats](https://github-readme-stats.vercel.app/api?username=mulander-j&show_icons=true&locale=en&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Mulander's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mulander-J&langs_count=10&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 | Category                       | Skill                                                                                                                                                       | Remark |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | **Lang**                       | [Solidity](https://soliditylang.org/), [Motoko](https://github.com/dfinity/motoko)                                                                          |        |
