@@ -5,9 +5,9 @@ My Personal [Blog(archive)](https://mulander-j.github.io/fillory/Wiki1001/)
 
 - 🔭 I’m currently working at WanXiang Blockchain.
 
-- 🌱 I’m currently learning **Rust**.
+- 🌱 I’m currently coding with AI.
 
-- 💬 Ask me about **JS, Web3**...
+- 💬 Ask me about **Frontend, Web3**...
 
 - 📫 How to reach me <mulander_j@outlook.com>
 
